@@ -1,0 +1,11 @@
+{
+  "name": "express-mysql-wrapper-demo",
+  "version": ".1.0",
+  "main": "main.js",
+  "author": "Spider13",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}

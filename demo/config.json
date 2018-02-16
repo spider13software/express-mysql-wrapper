@@ -1,0 +1,11 @@
+{
+	"mysql": {
+		"host": "localhost",
+		"user": "root",
+		"password": "",
+		"connectionLimit": 10
+	},
+	"httpServer": {
+		"port": 8085
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "name": "express-mysql-wrap",
+  "version": "0.1.0",
+  "description": "Mysql wrapper for Express",
+  "main": "express-mysql-wrap.js",
+  "keywords": [
+    "mysql",
+    "express",
+    "db",
+    "database"
+  ],
+  "author": {
+    "name": "Spider13",
+    "email": "admin@spider13.net",
+    "url": "https://spider13.net/"
+  },
+  "homepage": "https://github.com/spider13software/express-mysql-wrap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spider13software/express-mysql-wrap/issues"
+  }
+}
