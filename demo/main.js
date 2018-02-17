@@ -2,7 +2,7 @@
 
 const express = require("express");
 const mysql = require("mysql");
-const expressMysqlWrapper = require("../express-mysql-wrap.js");
+const expressMysqlWrapper = require("../express-mysql-wrapper.js");
 const config = require("./config.json");
 
 const dbPool = mysql.createPool(config.mysql);
