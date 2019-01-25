@@ -3,7 +3,7 @@
 		"host": "localhost",
 		"user": "root",
 		"password": "",
-		"connectionLimit": 10
+		"connectionLimit": 3
 	},
 	"httpServer": {
 		"port": 8085

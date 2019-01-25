@@ -1,6 +1,6 @@
 {
   "name": "express-mysql-wrapper",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Mysql wrapper for Express",
   "main": "express-mysql-wrapper.js",
   "keywords": [
@@ -18,5 +18,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/spider13software/express-mysql-wrapper/issues"
+  },
+  "dependencies": {
+    "on-finished": "^2.3.0"
   }
 }
